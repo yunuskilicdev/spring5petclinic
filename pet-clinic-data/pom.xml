@@ -3,7 +3,7 @@
     <parent>
         <artifactId>petclinic</artifactId>
         <groupId>com.yunuskilic</groupId>
-        <version>0.0.1</version>
+        <version>0.0.2-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -60,6 +60,6 @@
 
 
     <scm>
-        <tag>petclinic-0.0.1</tag>
+        <tag>petclinic-0.0.2</tag>
     </scm>
 </project>
