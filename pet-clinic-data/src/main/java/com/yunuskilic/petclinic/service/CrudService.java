@@ -1,4 +1,4 @@
-package com.yunuskilic.petclinic.services;
+package com.yunuskilic.petclinic.service;
 
 import java.util.Set;
 

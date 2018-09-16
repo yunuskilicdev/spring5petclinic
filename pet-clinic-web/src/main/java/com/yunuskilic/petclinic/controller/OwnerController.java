@@ -1,6 +1,6 @@
 package com.yunuskilic.petclinic.controller;
 
-import com.yunuskilic.petclinic.services.OwnerService;
+import com.yunuskilic.petclinic.service.OwnerService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;

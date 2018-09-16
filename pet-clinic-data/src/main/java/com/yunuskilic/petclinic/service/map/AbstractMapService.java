@@ -1,4 +1,4 @@
-package com.yunuskilic.petclinic.services.map;
+package com.yunuskilic.petclinic.service.map;
 
 import com.yunuskilic.petclinic.model.BaseEntity;
 

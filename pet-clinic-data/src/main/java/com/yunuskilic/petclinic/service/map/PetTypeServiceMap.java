@@ -1,7 +1,7 @@
-package com.yunuskilic.petclinic.services.map;
+package com.yunuskilic.petclinic.service.map;
 
 import com.yunuskilic.petclinic.model.PetType;
-import com.yunuskilic.petclinic.services.PetTypeService;
+import com.yunuskilic.petclinic.service.PetTypeService;
 import org.springframework.stereotype.Service;
 
 import java.util.Set;

@@ -1,10 +1,10 @@
 package com.yunuskilic.petclinic.bootstrap;
 
 import com.yunuskilic.petclinic.model.*;
-import com.yunuskilic.petclinic.services.OwnerService;
-import com.yunuskilic.petclinic.services.PetTypeService;
-import com.yunuskilic.petclinic.services.SpecialityService;
-import com.yunuskilic.petclinic.services.VetService;
+import com.yunuskilic.petclinic.service.OwnerService;
+import com.yunuskilic.petclinic.service.PetTypeService;
+import com.yunuskilic.petclinic.service.SpecialityService;
+import com.yunuskilic.petclinic.service.VetService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
